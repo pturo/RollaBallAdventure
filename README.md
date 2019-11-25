@@ -27,6 +27,8 @@ Below picture showing how game looks on Android device:
 
 ## Links
 
-If you are interested in creating games in Unity 3D engine and you need to start from a simple project, please go to a Roll a Ball's tutorial available here: https://learn.unity.com/project/roll-a-ball-tutorial. Good luck! 
-Textures: https://opengameart.org/
+If you are interested in creating games in Unity 3D engine and you need to start from a simple project, please go to a Roll a Ball's tutorial available here: https://learn.unity.com/project/roll-a-ball-tutorial. Good luck!
+
+Textures: https://opengameart.org/.
+
 (Further links will appear later during game's development)
