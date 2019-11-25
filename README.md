@@ -20,7 +20,7 @@ Technologies used with this project:
 
 ## Gameplay
 
-Roll a Ball: Adventure is a game inspired by Roll a Ball game created by Unity Technologies as a tutorial showing how to start creating games. This project, however, is more extensive and is still under development. In the game player is a ball character (as in title) which needs to go all way through and needs to watch out some obstacles during its journey, like chasms, sharp tools or moving parts. Player can also find coins that can be useful for unlocking new skins, for example. The whole game is created from scratch, only few textures are downloaded from Internet (Links are available in [Links](#links) section).
+Roll a Ball: Adventure is a game inspired by Roll a Ball game created by Unity Technologies as a tutorial showing how to start creating games. This project, however, is more extensive and is still under development. In the game player is a ball character (as in title) which needs to go all way through and needs to watch out some obstacles during its journey, like chasms, sharp tools or moving parts. Player can also find coins that can be useful for unlocking new skins, for example. The whole game is created from scratch, only few textures are downloaded from the Internet (Links are available in [Links](#links) section).
 
 Below picture showing how game looks on Android device:
 ![Roll Example](./images/rollaball.png)
