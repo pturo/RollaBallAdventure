@@ -36,11 +36,16 @@ Textures: https://opengameart.org/.
 
 ## Changelog
 
-Version 1.1
-
 Version 1.0
-* Main menu
-* First level
-* Coins
+* Removed Win Scene; changed with UI Panel instead additional scenes with win or lose
+* Fixed size of buttons and its placement
+* Improved scripts with options; changed many scripts with one - Options System
+* Added buttons in Main Menu: Options and Achievements
+* Improved HUD and Virtual Joystick on display
+
+Version 0.1
+* Main menu added
+* First level added
+* Coins added
 * Virtual Joystick without camera rotating; camera goes after the player
-* Pause menu system
+* Pause menu system added
