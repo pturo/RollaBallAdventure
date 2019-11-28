@@ -7,6 +7,7 @@ Android game made with Unity 3D.
 * [Technologies](#technologies)
 * [Gameplay](#gameplay)
 * [Links](#links)
+* [Changelog](#changelog)
 
 ## General info 
 
@@ -32,3 +33,14 @@ If you are interested in creating games in Unity 3D engine and you need to start
 Textures: https://opengameart.org/.
 
 (Further links will appear later during game's development)
+
+## Changelog
+
+Version 1.1
+
+Version 1.0
+* Main menu
+* First level
+* Coins
+* Virtual Joystick without camera rotating; camera goes after the player
+* Pause menu system
