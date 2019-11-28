@@ -5,11 +5,14 @@ using UnityEngine.SceneManagement;
 
 public class GameOverTrigger : MonoBehaviour
 {
+    public GameObject pauseMenuUI;
+
     private void OnTriggerEnter(Collider collider)
     {
         if (collider.gameObject.name == "Player")
-        {         
-            SceneManager.LoadScene("LoseScene", LoadSceneMode.Single);
+        {
+            pauseMenuUI.SetActive(true);
+            Time.timeScale = 0f;
         }
     }
 }
